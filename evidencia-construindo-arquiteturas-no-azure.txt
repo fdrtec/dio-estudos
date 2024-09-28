@@ -1,0 +1,3 @@
+Evidência do desafio do curso de construindo arquiteturas no azure (criação de grupo de recursos)
+
+https://portal.azure.com/#@fdrtecgmail.onmicrosoft.com/resource/subscriptions/2a55fde5-e4bd-40f3-843f-3432a451fe5c/resourceGroups/AZ-900_Lab_DIO/overview
